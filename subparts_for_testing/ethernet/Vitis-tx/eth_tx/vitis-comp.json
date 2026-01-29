@@ -1,0 +1,15 @@
+{
+  "name": "eth_tx",
+  "type": "HOST",
+  "platform": "C:\\Users\\emiry\\Desktop\\KuLeuven\\test\\test\\export\\test\\test.xpfm",
+  "domain": "standalone_psu_cortexa53_0",
+  "cpuInstance": "psu_cortexa53_0",
+  "cpuType": "cortex-a53",
+  "os": "standalone",
+  "configuration": {
+    "componentType": "HOST",
+    "hostToolchainConfigurations": []
+  },
+  "domainRealName": "standalone_psu_cortexa53_0",
+  "applicationFlow": "EMBEDDED"
+}
