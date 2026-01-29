@@ -189,14 +189,6 @@ For initial validation, the TX and RX paths can be tested using internal loopbac
 | Block Size Range | 32 B - 16 KB |
 | Fragmentation | 1 KB per packet |
 
-## Team
-
-| Member | Responsibility |
-|--------|----------------|
-| Emir Yalcin | Ethernet MAC/PHY subsystem (Part 3) |
-| Tubi Soyer | IP/UDP packetization (Part 2) |
-| Tolga Kuntman | RDMA Core & Queue Engine (Part 1) |
-
 ## References
 
 - [AMD Kria KR260 Documentation](https://www.xilinx.com/products/som/kria/kr260-robotics-starter-kit.html)
