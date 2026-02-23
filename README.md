@@ -166,10 +166,6 @@ vivado -mode batch -source rdma_rx.tcl
 | `rdma_ip_decap_integrated.v` | IP/UDP/Ethernet header removal |
 | `ip_eth_rx_64_rdma.v` | Ethernet frame reception |
 
-**Documentation sections:**
-- [Part 1: RDMA Core & Queue Engine](docs/project/RDMA_logic/)
-- [Part 2: IP/UDP Packetization](docs/project/ip_encapsulator/)
-- [Part 3: Ethernet MAC & PHY](docs/project/part1_ethernet/)
 
 ## Testing
 
